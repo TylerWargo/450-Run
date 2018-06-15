@@ -1,2 +1,2 @@
 # Four-Fifty-Run
-An infinite runner game developed after the acclaimed novel, Fahrenheit 451. Collect books as Guy Montag and avoid getting captured by federal agents.
+Pronounced 'Four Fifty Run', this infinite runner platformer takes you into the dystopian world of Fahrenheit 451. Collect books in your escape! Made in one day for academic purposes.
